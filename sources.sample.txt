@@ -1,8 +1,8 @@
 :: Create a file called sources.txt and add the paths/directories that you want to backup. Example:
-C:\Users\%USERNAME%\Downloads
-C:\Users\%USERNAME%\Documents
-C:\Users\%USERNAME%\Pictures
-C:\Users\%USERNAME%\Videos
-C:\Users\%USERNAME%\Music
+C:\Users\MyUserName\Downloads
+C:\Users\MyUserName\Documents
+C:\Users\MyUserName\Pictures
+C:\Users\MyUserName\Videos
+C:\Users\MyUserName\Music
 D:\Downloads
 D:\My Projects
