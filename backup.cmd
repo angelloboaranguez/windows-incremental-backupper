@@ -19,7 +19,7 @@ if "%1"=="" (
 )
 
 rem Set the working directory to the location of the script
-cd /d "%~dp0" 
+cd /d "%~dp0"
 
 set LogPath="logs"
 set SourcePathsFile="sources.txt"
